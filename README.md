@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on helping people to push application using CI CD pipeline. Working on old project Dockerization, K8S helm chart creation. My YouTube tutorial and writing blog and more..
+- 🔭 I’m currently working on helping people to push application to production using CI CD pipeline. Working on old project Dockerization, K8S helm chart creation. My YouTube tutorial and writing blog and more..
 - 🌱 I’m currently learning Kotlin and Angular, NodeJS Gaming
 - 👯 I’m looking to collaborate on PHP, Spring, React and its adjacent communities.
 - 🤔 I’m looking for help with Kotlin, NodeJS Gaming
